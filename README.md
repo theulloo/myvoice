@@ -1,4 +1,4 @@
 # myvoice
-Just to say hello world
-Aliens invaded the Earth
-Now Aliens are destined to rule
+Aliens invaded the Earth.
+
+Aliens are destined to rule
